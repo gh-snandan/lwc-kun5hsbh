@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/sucharita787.lwc-kun5hsbh",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve Ii7FNiUAoZeQTT4fGife --open"
+  }
+}
